@@ -3,9 +3,17 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/pexav/Desktop/GITHUB/ScarGames/web/private/cidade/alter.xhtml</file>
-            <file>file:/C:/Users/pexav/Desktop/GITHUB/ScarGames/web/private/cidade/list.xhtml</file>
-            <file>file:/C:/Users/pexav/Desktop/GITHUB/ScarGames/web/private/cidade/new.xhtml</file>
+            <file>file:/C:/Users/pexav/Desktop/GITHUB/ScarGames/src/java/br/com/scargames/controller/CartaoMB.java</file>
+            <file>file:/C:/Users/pexav/Desktop/GITHUB/ScarGames/web/private/templates/menu.xhtml</file>
+            <file>file:/C:/Users/pexav/Desktop/GITHUB/ScarGames/web/private/cartao/alter.xhtml</file>
+            <file>file:/C:/Users/pexav/Desktop/GITHUB/ScarGames/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/pexav/Desktop/GITHUB/ScarGames/src/java/br/com/scargames/util/ImagesView.java</file>
+            <file>file:/C:/Users/pexav/Desktop/GITHUB/ScarGames/web/private/cartao/list.xhtml</file>
+            <file>file:/C:/Users/pexav/Desktop/GITHUB/ScarGames/web/private/cartao/new.xhtml</file>
+            <file>file:/C:/Users/pexav/Desktop/GITHUB/ScarGames/src/java/br/com/scargames/util/EntityConverter.java</file>
+            <file>file:/C:/Users/pexav/Desktop/GITHUB/ScarGames/src/java/br/com/scargames/controller/UsuarioMB.java</file>
+            <file>file:/C:/Users/pexav/Desktop/GITHUB/ScarGames/web/private/index.xhtml</file>
+            <file>file:/C:/Users/pexav/Desktop/GITHUB/ScarGames/src/java/br/com/scargames/domain/Cartao.java</file>
         </group>
     </open-files>
 </project-private>
